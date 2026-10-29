@@ -2,12 +2,11 @@
 
 A real-time weather dashboard for any city in the world. It shows current conditions, a 24-hour and 7-day forecast, air quality, a rain radar, and works as an installable app that still opens when you are offline.
 
-**Live demo:** https://weatherwise-sigma-inky.vercel.app
+   **Live demo:** https://weatherwise-sigma-inky.vercel.app
 
-   
-     ![WeatherWise full page](public/screenshot-full.png)
+   ![WeatherWise full page](public/screenshot-full.png)
 
-## Features
+   ## Features
 
 - **Search any city** with autocomplete, or use **My Location** (GPS on phones; approximate on desktops, with a warning)
 - **Current weather:** temperature, feels like, humidity, wind, pressure, visibility, UV index, sunrise and sunset
