@@ -4,6 +4,9 @@ A real-time weather dashboard for any city in the world. It shows current condit
 
 **Live demo:** https://weatherwise-sigma-inky.vercel.app
 
+   ![WeatherWise screenshot](public/screenshot.png)
+     ![WeatherWise full page](public/screenshot-full.png)
+
 ## Features
 
 - **Search any city** with autocomplete, or use **My Location** (GPS on phones; approximate on desktops, with a warning)
